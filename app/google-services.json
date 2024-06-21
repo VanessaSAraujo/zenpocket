@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365567513614",
+    "project_id": "zenpocket-c0e5c",
+    "storage_bucket": "zenpocket-c0e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365567513614:android:f9600b483eb6e9ded7185f",
+        "android_client_info": {
+          "package_name": "com.example.zenpocketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365567513614-k5i6dm1vjivsdp40v7vjafja8fp7sbai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXxupX7IVrNDdMSO669X4moJ9XFDvZasw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365567513614-k5i6dm1vjivsdp40v7vjafja8fp7sbai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
